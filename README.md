@@ -1,1 +1,1 @@
-Machine learning algorithms to play with and learn
+Machine learning algorithms to play with and learn 🤖
